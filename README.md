@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I’m Narayan Sangale (Code7Narayan)
 
-<!--
-**Code7Narayan/Code7Narayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **CSE Student | Real-world Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 Interests
+
+- **Full Stack Web Development**
+- **Smart Farming & AI Solutions**
+- **Drone & Ground Control Software**  
+  _(QGCS, MAVProxy, UAV UI customization)_
+- **Hackathons & Tech Competitions**
+
+---
+
+### 🌱 Currently Leveling Up
+
+- Data Structures & System Design
+- Qt/QML for UAV UI customization
+- React & Node.js for scalable apps
+
+---
+
+### 💡 Notable Project
+
+- **E_Frming** – Smart farming innovation project
+
+---
+
+### 💬 Let’s Build Something Cool Together!
+
+- 🤝 Open to collaborating on:
+  - Open-source tools
+  - Smart agri-tech projects
+  - UAV/Drone software
+
+---
+
+### 📫 Reach Me
+
+- Email: [narayan.sangale@email.com](mailto:naraynvs726@email.com)
+- LinkedIn: [narayan-sangale](https://www.linkedin.com/in/narayan-sangale)
+
+---
+
+> 🚀 _"Code is the tool, innovation is the goal."_  
+> _Let’s connect and create impactful solutions!_
